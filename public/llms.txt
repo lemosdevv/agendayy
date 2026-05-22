@@ -1,0 +1,9 @@
+# Agenday
+
+> Agenda online para profissionais de beleza: receba marcações, envie lembretes automáticos e organize seus horários em um link só.
+
+## Pages
+
+- [Home](/): Visão geral do Agenday, funcionalidades, planos e perguntas frequentes.
+- [Cadastro](/cadastro): Crie sua conta e teste grátis por 15 dias.
+- [Entrar](/entrar): Acesse sua conta Agenday.
